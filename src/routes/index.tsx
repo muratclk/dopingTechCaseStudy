@@ -18,7 +18,11 @@ const MainStack: React.FC = () => {
   return (
     <Stack.Navigator screenOptions={{headerShown: false}}>
       <Stack.Screen name="QuestionsScreen" component={QuestionScreen} />
-      <Stack.Screen name="ResultScreen" component={ResultScreen} />
+      <Stack.Screen
+        name="ResultScreen"
+        component={ResultScreen}
+        options={{gestureEnabled: false}}
+      />
     </Stack.Navigator>
   );
 };

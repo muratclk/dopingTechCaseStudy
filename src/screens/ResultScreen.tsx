@@ -1,7 +1,7 @@
 import React, {useCallback, useEffect} from 'react';
-import {Text, StyleSheet, View, Image} from 'react-native';
+import {Text, StyleSheet, View, Image, BackHandler} from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
-import {useNavigation} from '@react-navigation/native';
+import {useFocusEffect, useNavigation} from '@react-navigation/native';
 import {useSelector, useDispatch} from 'react-redux';
 
 import {theme} from '@utils/theme';
@@ -24,6 +24,19 @@ const ResultScreen: React.FC = () => {
   const [empty, setEmpty] = React.useState(0);
   const [net, setNet] = React.useState('0');
 
+  useFocusEffect(
+    React.useCallback(() => {
+      const onBackPress = () => {
+        return true;
+      };
+
+      BackHandler.addEventListener('hardwareBackPress', onBackPress);
+
+      return () =>
+        BackHandler.removeEventListener('hardwareBackPress', onBackPress);
+    }, []),
+  );
+
   const calculateResult = useCallback(() => {
     let correctNumber = 0;
     let wrongNumber = 0;
@@ -40,7 +53,7 @@ const ResultScreen: React.FC = () => {
     setCorrect(correctNumber);
     setWrong(wrongNumber);
     setEmpty(emptyNumber);
-    setNet((correctNumber - wrongNumber / 4).toFixed(1).replace(/[.,]0$/, ''));
+    setNet((correctNumber - wrongNumber / 4).toFixed(2).replace(/[.,]00$/, ''));
     dispatch(setDuration(0));
   }, [dispatch, questions]);
 

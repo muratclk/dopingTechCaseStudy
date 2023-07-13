@@ -20,7 +20,7 @@ const AnswerSheet: React.FC<AnswerSheetProps> = ({setopenAnswerSheet}) => {
   const onClose = () => setopenAnswerSheet(false);
 
   return (
-    <SafeAreaView style={styles.safeContainer}>
+    <SafeAreaView edges={['top', 'right', 'left']} style={styles.safeContainer}>
       <View style={styles.container}>
         <BottomSheet
           ref={sheetRef}
@@ -59,7 +59,6 @@ export default AnswerSheet;
 const styles = StyleSheet.create({
   safeContainer: {
     backgroundColor: 'rgba(0,0,0,0.65)',
-
     zIndex: 999,
     alignItems: 'center',
     position: 'absolute',
@@ -67,6 +66,8 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     top: 0,
+    paddingBottom: 0,
+    marginBottom: 0,
   },
   container: {
     height: '100%',

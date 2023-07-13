@@ -23,7 +23,6 @@ const MoreButton: React.FC<MoreButtonProps> = ({setopenAnswerSheet}) => {
         options,
         cancelButtonIndex,
         destructiveButtonIndex,
-        tintColor: theme.colors.lightBlue,
       },
       (selectedIndex: number | undefined) => {
         switch (selectedIndex) {

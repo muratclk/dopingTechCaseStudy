@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, View} from 'react-native';
+import {StyleSheet, View, Platform} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import {BlurView} from '@react-native-community/blur';
 import {useSelector, useDispatch} from 'react-redux';
@@ -26,6 +26,7 @@ const QuestionButtons: React.FC = () => {
     <View style={styles.container}>
       <BlurView
         style={styles.blurView}
+        // overlayColor="transparent"
         blurType="dark"
         blurAmount={3}
         reducedTransparencyFallbackColor={theme.colors.darkestBlue}
@@ -61,6 +62,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     width: '100%',
+    overflow: Platform.OS === 'android' ? 'hidden' : 'visible',
   },
   buttonContainer: {
     paddingHorizontal: normalize(10),
@@ -68,11 +70,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
   },
-  buttonView: {width: normalize(135), height: normalize(44)},
+  buttonView: {
+    width: normalize(135),
+    height: normalize(44),
+  },
 
   blurView: {
     position: 'absolute',
-    top: 0,
     left: 0,
     bottom: 0,
     right: 0,
