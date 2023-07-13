@@ -22,7 +22,7 @@ Once you have these prerequisites, follow these steps to install and run the pro
 2. **Navigate into the directory** of the project:
 
    ```
-   cd quiz-app
+   cd dopingTechCaseStudy
    ```
 
 3. **Install dependencies** using npm:
