@@ -1,0 +1,1147 @@
+[
+  {
+    "id": 1,
+    "answer": "A",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Şair, şiirlerinde hava alacak boşluk bırakmıyor, her şeyi söylüyor. Okuyucunun adına da kendisi konuşuyor. Bunun için dizleri hayalinizi perdeliyor, soluğunuzu kesiyor, sizi boğuyor.” ",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “hava alacak boşluk bırakmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Görgüsüzce",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " davranmasaydın, seni böyle dışlamazdık.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "Ekip arkadaşlarıyla ters düşmeyen, ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir teknisyendi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Her şeyin kendisinin olmasını isteyen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "açgözlü",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " biriydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": " Bir dediği bir dediğini tutmayan ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir gazeteciydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Ağzında bakla ıslanmayan boşboğaz ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "boşboğaz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " adamın tekiydi o.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "B",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Yazar, okurlarını her daim sürprizlerle karşılar, bir an bile durmaz. Okurun zihninde yaratmak istediği imajları kendi belirler ve onları yönlendirir. Bu nedenle paragrafları rüyalarınızı bulanıklaştırır, nefesinizi kısaltır, sizi sarar.”",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “bir an bile durmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Keyifsiz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir biçimde davranmayan, bu sebeple etrafındakileri rahatsız eden.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "İstikrarlı",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir tutum sergileyen ve böylelikle herkesin takdirini kazanan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Dur durak bilmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "hareketli",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir kişiliğe sahip olan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": "Her durumda bir çıkış yolu bulmayı bilen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "zeka",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Hareketsiz ve sessiz durmayı sevmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "enerjik",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "A",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Şair, şiirlerinde hava alacak boşluk bırakmıyor, her şeyi söylüyor. Okuyucunun adına da kendisi konuşuyor. Bunun için dizleri hayalinizi perdeliyor, soluğunuzu kesiyor, sizi boğuyor.” ",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “hava alacak boşluk bırakmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Görgüsüzce",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " davranmasaydın, seni böyle dışlamazdık.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "Ekip arkadaşlarıyla ters düşmeyen, ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir teknisyendi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Her şeyin kendisinin olmasını isteyen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "açgözlü",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " biriydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": " Bir dediği bir dediğini tutmayan ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir gazeteciydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Ağzında bakla ıslanmayan boşboğaz ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "boşboğaz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " adamın tekiydi o.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "B",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Yazar, okurlarını her daim sürprizlerle karşılar, bir an bile durmaz. Okurun zihninde yaratmak istediği imajları kendi belirler ve onları yönlendirir. Bu nedenle paragrafları rüyalarınızı bulanıklaştırır, nefesinizi kısaltır, sizi sarar.”",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “bir an bile durmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Keyifsiz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir biçimde davranmayan, bu sebeple etrafındakileri rahatsız eden.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "İstikrarlı",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir tutum sergileyen ve böylelikle herkesin takdirini kazanan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Dur durak bilmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "hareketli",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir kişiliğe sahip olan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": "Her durumda bir çıkış yolu bulmayı bilen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "zeka",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Hareketsiz ve sessiz durmayı sevmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "enerjik",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "A",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Şair, şiirlerinde hava alacak boşluk bırakmıyor, her şeyi söylüyor. Okuyucunun adına da kendisi konuşuyor. Bunun için dizleri hayalinizi perdeliyor, soluğunuzu kesiyor, sizi boğuyor.” ",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “hava alacak boşluk bırakmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Görgüsüzce",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " davranmasaydın, seni böyle dışlamazdık.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "Ekip arkadaşlarıyla ters düşmeyen, ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir teknisyendi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Her şeyin kendisinin olmasını isteyen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "açgözlü",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " biriydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": " Bir dediği bir dediğini tutmayan ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir gazeteciydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Ağzında bakla ıslanmayan boşboğaz ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "boşboğaz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " adamın tekiydi o.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "B",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Yazar, okurlarını her daim sürprizlerle karşılar, bir an bile durmaz. Okurun zihninde yaratmak istediği imajları kendi belirler ve onları yönlendirir. Bu nedenle paragrafları rüyalarınızı bulanıklaştırır, nefesinizi kısaltır, sizi sarar.”",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “bir an bile durmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Keyifsiz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir biçimde davranmayan, bu sebeple etrafındakileri rahatsız eden.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "İstikrarlı",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir tutum sergileyen ve böylelikle herkesin takdirini kazanan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Dur durak bilmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "hareketli",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir kişiliğe sahip olan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": "Her durumda bir çıkış yolu bulmayı bilen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "zeka",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Hareketsiz ve sessiz durmayı sevmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "enerjik",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "A",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Şair, şiirlerinde hava alacak boşluk bırakmıyor, her şeyi söylüyor. Okuyucunun adına da kendisi konuşuyor. Bunun için dizleri hayalinizi perdeliyor, soluğunuzu kesiyor, sizi boğuyor.” ",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “hava alacak boşluk bırakmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Görgüsüzce",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " davranmasaydın, seni böyle dışlamazdık.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "Ekip arkadaşlarıyla ters düşmeyen, ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir teknisyendi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Her şeyin kendisinin olmasını isteyen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "açgözlü",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " biriydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": " Bir dediği bir dediğini tutmayan ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir gazeteciydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Ağzında bakla ıslanmayan boşboğaz ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "boşboğaz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " adamın tekiydi o.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "B",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Yazar, okurlarını her daim sürprizlerle karşılar, bir an bile durmaz. Okurun zihninde yaratmak istediği imajları kendi belirler ve onları yönlendirir. Bu nedenle paragrafları rüyalarınızı bulanıklaştırır, nefesinizi kısaltır, sizi sarar.”",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “bir an bile durmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Keyifsiz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir biçimde davranmayan, bu sebeple etrafındakileri rahatsız eden.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "İstikrarlı",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir tutum sergileyen ve böylelikle herkesin takdirini kazanan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Dur durak bilmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "hareketli",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir kişiliğe sahip olan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": "Her durumda bir çıkış yolu bulmayı bilen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "zeka",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Hareketsiz ve sessiz durmayı sevmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "enerjik",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "A",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Şair, şiirlerinde hava alacak boşluk bırakmıyor, her şeyi söylüyor. Okuyucunun adına da kendisi konuşuyor. Bunun için dizleri hayalinizi perdeliyor, soluğunuzu kesiyor, sizi boğuyor.” ",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “hava alacak boşluk bırakmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Görgüsüzce",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " davranmasaydın, seni böyle dışlamazdık.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "Ekip arkadaşlarıyla ters düşmeyen, ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir teknisyendi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Her şeyin kendisinin olmasını isteyen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "açgözlü",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " biriydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": " Bir dediği bir dediğini tutmayan ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "tutarsız",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir gazeteciydi.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Ağzında bakla ıslanmayan boşboğaz ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "boşboğaz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " adamın tekiydi o.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "B",
+    "description": [
+      {
+        "id": 1,
+        "text": "“Yazar, okurlarını her daim sürprizlerle karşılar, bir an bile durmaz. Okurun zihninde yaratmak istediği imajları kendi belirler ve onları yönlendirir. Bu nedenle paragrafları rüyalarınızı bulanıklaştırır, nefesinizi kısaltır, sizi sarar.”",
+        "bold": false,
+        "underline": false
+      }
+    ],
+    "question": [
+      {
+        "id": 1,
+        "text": "Bu parçada geçen “bir an bile durmamak” sözüyle anlatılmak istenen aşağıdakilerden hangisidir?",
+        "bold": true,
+        "underline": false
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "texts": [
+          {
+            "text": "Keyifsiz",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir biçimde davranmayan, bu sebeple etrafındakileri rahatsız eden.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "texts": [
+          {
+            "text": "İstikrarlı",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir tutum sergileyen ve böylelikle herkesin takdirini kazanan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "texts": [
+          {
+            "text": "Dur durak bilmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "hareketli",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir kişiliğe sahip olan.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "texts": [
+          {
+            "text": "Her durumda bir çıkış yolu bulmayı bilen ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "zeka",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      },
+      {
+        "id": "E",
+        "texts": [
+          {
+            "text": "Hareketsiz ve sessiz durmayı sevmeyen, her zaman ",
+            "bold": false,
+            "underline": false
+          },
+          {
+            "text": "enerjik",
+            "bold": true,
+            "underline": true
+          },
+          {
+            "text": " bir birey.",
+            "bold": false,
+            "underline": false
+          }
+        ]
+      }
+    ]
+  }
+]

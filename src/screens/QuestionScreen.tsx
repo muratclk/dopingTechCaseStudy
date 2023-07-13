@@ -1,38 +1,30 @@
-import {Text, View} from 'react-native';
-import React from 'react';
+import React, {useState} from 'react';
+import {StyleSheet} from 'react-native';
+import {SafeAreaView} from 'react-native-safe-area-context';
 
-export default function QuestionScreen(): JSX.Element {
+import Header from '@components/Header';
+import Question from '@components/Question';
+import QuestionButtons from '@components/QuestionButtons';
+import {theme} from '@utils/theme';
+import AnswerSheet from '@components/answerSheet';
+
+const QuestionScreen: React.FC = () => {
+  const [openAnswerSheet, setopenAnswerSheet] = useState<boolean>(false);
+
   return (
-    <View>
-      <Text
-        style={{
-          fontFamily: 'Nunito-Bold',
-        }}>
-        QuestionScreen
-      </Text>
-      <Text
-        style={{
-          fontFamily: 'Nunito-Regular',
-        }}>
-        QuestionScreen
-      </Text>
-      <Text
-        style={{
-          fontFamily: 'Nunito-Medium',
-        }}>
-        QuestionScreen
-      </Text>
-      <Text
-        style={{
-          fontFamily: 'Nunito-SemiBold',
-        }}>
-        QuestionScreen
-      </Text>
-      <Text>QuestionScreen</Text>
-      <Text>QuestionScreen</Text>
-      <Text>QuestionScreen</Text>
-      <Text>QuestionScreen</Text>
-      <Text>QuestionScreen</Text>
-    </View>
+    <SafeAreaView style={styles.container}>
+      <Header setopenAnswerSheet={setopenAnswerSheet} />
+      <Question />
+      <QuestionButtons />
+      {openAnswerSheet && (
+        <AnswerSheet setopenAnswerSheet={setopenAnswerSheet} />
+      )}
+    </SafeAreaView>
   );
-}
+};
+
+export default QuestionScreen;
+
+const styles = StyleSheet.create({
+  container: {flex: 1, backgroundColor: theme.colors.lightBlue},
+});
